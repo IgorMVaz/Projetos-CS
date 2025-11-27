@@ -1,0 +1,14 @@
+C:\Projetos\Exercicio27\Exercicio27\bin\Debug\net8.0\Exercicio27.exe
+C:\Projetos\Exercicio27\Exercicio27\bin\Debug\net8.0\Exercicio27.deps.json
+C:\Projetos\Exercicio27\Exercicio27\bin\Debug\net8.0\Exercicio27.runtimeconfig.json
+C:\Projetos\Exercicio27\Exercicio27\bin\Debug\net8.0\Exercicio27.dll
+C:\Projetos\Exercicio27\Exercicio27\bin\Debug\net8.0\Exercicio27.pdb
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\Exercicio27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\Exercicio27.AssemblyInfoInputs.cache
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\Exercicio27.AssemblyInfo.cs
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\Exercicio27.csproj.CoreCompileInputs.cache
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\Exercicio27.dll
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\refint\Exercicio27.dll
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\Exercicio27.pdb
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\Exercicio27.genruntimeconfig.cache
+C:\Projetos\Exercicio27\Exercicio27\obj\Debug\net8.0\ref\Exercicio27.dll

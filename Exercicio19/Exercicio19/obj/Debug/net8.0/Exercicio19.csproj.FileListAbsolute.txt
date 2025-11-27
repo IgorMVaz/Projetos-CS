@@ -1,0 +1,14 @@
+C:\Projetos\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.exe
+C:\Projetos\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.deps.json
+C:\Projetos\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.runtimeconfig.json
+C:\Projetos\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.dll
+C:\Projetos\Exercicio19\Exercicio19\bin\Debug\net8.0\Exercicio19.pdb
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.AssemblyInfoInputs.cache
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.AssemblyInfo.cs
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.csproj.CoreCompileInputs.cache
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.dll
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\refint\Exercicio19.dll
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.pdb
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\Exercicio19.genruntimeconfig.cache
+C:\Projetos\Exercicio19\Exercicio19\obj\Debug\net8.0\ref\Exercicio19.dll

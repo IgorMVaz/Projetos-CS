@@ -1,0 +1,14 @@
+C:\Projetos\Course5\Course5\bin\Debug\net8.0\Course5.exe
+C:\Projetos\Course5\Course5\bin\Debug\net8.0\Course5.deps.json
+C:\Projetos\Course5\Course5\bin\Debug\net8.0\Course5.runtimeconfig.json
+C:\Projetos\Course5\Course5\bin\Debug\net8.0\Course5.dll
+C:\Projetos\Course5\Course5\bin\Debug\net8.0\Course5.pdb
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\Course5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\Course5.AssemblyInfoInputs.cache
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\Course5.AssemblyInfo.cs
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\Course5.csproj.CoreCompileInputs.cache
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\Course5.dll
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\refint\Course5.dll
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\Course5.pdb
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\Course5.genruntimeconfig.cache
+C:\Projetos\Course5\Course5\obj\Debug\net8.0\ref\Course5.dll

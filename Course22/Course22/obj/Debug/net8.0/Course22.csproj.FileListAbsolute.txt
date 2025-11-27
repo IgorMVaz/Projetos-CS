@@ -1,0 +1,14 @@
+C:\Projetos\Course22\Course22\bin\Debug\net8.0\Course22.exe
+C:\Projetos\Course22\Course22\bin\Debug\net8.0\Course22.deps.json
+C:\Projetos\Course22\Course22\bin\Debug\net8.0\Course22.runtimeconfig.json
+C:\Projetos\Course22\Course22\bin\Debug\net8.0\Course22.dll
+C:\Projetos\Course22\Course22\bin\Debug\net8.0\Course22.pdb
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\Course22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\Course22.AssemblyInfoInputs.cache
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\Course22.AssemblyInfo.cs
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\Course22.csproj.CoreCompileInputs.cache
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\Course22.dll
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\refint\Course22.dll
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\Course22.pdb
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\Course22.genruntimeconfig.cache
+C:\Projetos\Course22\Course22\obj\Debug\net8.0\ref\Course22.dll

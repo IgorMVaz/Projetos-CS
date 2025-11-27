@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Course22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C048F4A4-1946-4F43-AF38-0530A1C3676E}|Course22\\Course22.csproj|c:\\projetos\\course22\\course22\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C048F4A4-1946-4F43-AF38-0530A1C3676E}|Course22\\Course22.csproj|solutionrelative:course22\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C048F4A4-1946-4F43-AF38-0530A1C3676E}|Course22\\Course22.csproj|c:\\projetos\\course22\\course22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C048F4A4-1946-4F43-AF38-0530A1C3676E}|Course22\\Course22.csproj|solutionrelative:course22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Projetos\\Course22\\Course22\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Course22\\Calculadora.cs",
+              "ToolTip": "C:\\Projetos\\Course22\\Course22\\Calculadora.cs",
+              "RelativeToolTip": "Course22\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:28:32.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Course22\\Course22\\Program.cs",
+              "RelativeDocumentMoniker": "Course22\\Program.cs",
+              "ToolTip": "C:\\Projetos\\Course22\\Course22\\Program.cs",
+              "RelativeToolTip": "Course22\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:10:19.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

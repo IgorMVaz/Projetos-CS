@@ -1,0 +1,14 @@
+C:\Projetos\Exercicio30\Exercicio30\bin\Debug\net8.0\Exercicio30.exe
+C:\Projetos\Exercicio30\Exercicio30\bin\Debug\net8.0\Exercicio30.deps.json
+C:\Projetos\Exercicio30\Exercicio30\bin\Debug\net8.0\Exercicio30.runtimeconfig.json
+C:\Projetos\Exercicio30\Exercicio30\bin\Debug\net8.0\Exercicio30.dll
+C:\Projetos\Exercicio30\Exercicio30\bin\Debug\net8.0\Exercicio30.pdb
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\Exercicio30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\Exercicio30.AssemblyInfoInputs.cache
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\Exercicio30.AssemblyInfo.cs
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\Exercicio30.csproj.CoreCompileInputs.cache
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\Exercicio30.dll
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\refint\Exercicio30.dll
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\Exercicio30.pdb
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\Exercicio30.genruntimeconfig.cache
+C:\Projetos\Exercicio30\Exercicio30\obj\Debug\net8.0\ref\Exercicio30.dll
